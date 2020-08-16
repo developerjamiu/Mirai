@@ -3,15 +3,13 @@
 An Attendance Management System for Students
 
 Progress
-- Added support for Dark Theme
-
 - Splash Screen
+
 ![splash](https://user-images.githubusercontent.com/50176100/90331476-911a2480-dfac-11ea-921d-b77e79fd358c.png)
 
 - Login Screen
 
 ![login_white](https://user-images.githubusercontent.com/50176100/90331477-95ded880-dfac-11ea-89d2-918de29df538.png)
-
 ![login_dark](https://user-images.githubusercontent.com/50176100/90331483-a4c58b00-dfac-11ea-81c4-56649bb02f66.png)
 
 - Sign Screen
